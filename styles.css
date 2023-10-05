@@ -245,7 +245,7 @@ padding: 50px;
   left: 0px;
 }
 .cont-image{
-  position: absolute;
+  position: relative;
   top: 10px;
   left: 20px;
 }
